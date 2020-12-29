@@ -2,8 +2,8 @@
 Implemented Two Phase Commit, 2PC, protocol with backup transaction manager, BTM <br/>
 
 
-2PC protocol is a transaction management protocol for distributed set<br/>
-up which aims to achieve atomic transactions in distributed set up similar to atomic transactions in single database instances.<br/>
+2PC protocol is a transaction management protocol for distributed set up which aims to achieve atomic transactions in distributed set up <br/>
+similar to atomic transactions in single database instances.<br/>
 
 
 TLA+ Toolbox<br/>
