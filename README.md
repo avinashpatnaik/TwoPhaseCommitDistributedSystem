@@ -2,7 +2,7 @@
 Implemented Two Phase Commit, 2PC, protocol with backup transaction manager, BTM <br/>
 
 
-Implemented Two Phase Commit, 2PC, protocol with backup transaction manager, BTM. 2PC protocol is a transaction management protocol for distributed set<br/>
+2PC protocol is a transaction management protocol for distributed set<br/>
 up which aims to achieve atomic transactions in distributed set up similar to atomic transactions in single database instances.<br/>
 
 
